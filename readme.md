@@ -4,8 +4,6 @@
 
 ![gif](./readme.assets/feature_preview.gif)
 
-#### [这里是中文介绍(Chinese Introduction)](./readmd_zh.md)
-
 ---
 
 ### ✅ Features
